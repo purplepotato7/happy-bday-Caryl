@@ -1338,8 +1338,8 @@ audio {
   font-family: 'Happy', sans-serif;
   font-size: 60px;
   text-transform: uppercase;
-  color: #C4515C;
-  text-shadow: 2px 2px 2px #FFF;
+  color: #48a85a;
+	-webkit-text-stroke: 2px black
   display: none;              /* controlled by JS */
   font-weight: bold;
   margin: 15px 0;             /* spacing between lines */
