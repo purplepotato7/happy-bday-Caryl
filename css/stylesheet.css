@@ -1339,7 +1339,7 @@ audio {
   font-size: 60px;
   text-transform: uppercase;
   color: #48a85a;
-	-webkit-text-stroke: 2px black
+	-webkit-text-stroke: 2px black;
   display: none;              /* controlled by JS */
   font-weight: bold;
   margin: 15px 0;             /* spacing between lines */
